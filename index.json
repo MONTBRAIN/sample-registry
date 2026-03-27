@@ -8,6 +8,13 @@
       "description": "Aligns your LinkedIn job descriptions with your CV. Reads your resume, compares with LinkedIn entries, updates mismatched jobs, and generates a PDF change report.",
       "author": "montbrain",
       "download_url": "https://github.com/MONTBRAIN/forge-registry/releases/download/agents/linkedin-profile-updater-0.1.0.agnt"
+    },
+    "e2e-test-agent": {
+      "version": "0.1.0",
+      "description": "Temporary agent for E2E registry testing. Delete after test.",
+      "author": "montbrain",
+      "download_url": "https://github.com/MONTBRAIN/forge-registry/releases/download/agents/e2e-test-agent-0.1.0.agnt",
+      "sha256": "4fcdff970b59e689c6e34ba635f3db63c8e91919a42aa5268c7935fa76185d38"
     }
   }
 }
