@@ -1,13 +1,13 @@
 {
   "registry": {
-    "name": "official"
+    "name": "sample"
   },
   "agents": {
     "linkedin-profile-updater": {
       "version": "0.1.0",
       "description": "Aligns your LinkedIn job descriptions with your CV. Reads your resume, compares with LinkedIn entries, updates mismatched jobs, and generates a PDF change report.",
       "author": "montbrain",
-      "download_url": "https://github.com/MONTBRAIN/forge-registry/releases/download/agents/linkedin-profile-updater-0.1.0.agnt"
+      "download_url": "https://github.com/MONTBRAIN/sample-registry/releases/download/agents/linkedin-profile-updater-0.1.0.agnt"
     }
   }
 }
