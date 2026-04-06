@@ -8,6 +8,13 @@
       "description": "Aligns your LinkedIn job descriptions with your CV. Reads your resume, compares with LinkedIn entries, updates mismatched jobs, and generates a PDF change report.",
       "author": "montbrain",
       "download_url": "https://github.com/MONTBRAIN/sample-registry/releases/download/agents/linkedin-profile-updater-0.1.0.agnt"
+    },
+    "qa-engineer-workflow-orchestrator": {
+      "version": "0.1.0",
+      "description": "",
+      "author": "",
+      "download_url": "https://github.com/MONTBRAIN/sample-registry/releases/download/agents/qa-engineer-workflow-orchestrator-0.1.0.agnt",
+      "sha256": "04fde6efafba5b1ebe3dea46bfcef142c222da75552f4d4a08166baa3afe3c2e"
     }
   }
 }
