@@ -21,7 +21,7 @@
       "description": "",
       "author": "",
       "download_url": "https://github.com/MONTBRAIN/sample-registry/releases/download/agents/software-engineer-workflow-orchestrator-0.1.0.agnt",
-      "sha256": "4d6ec9b6a12f3570641f408d440aded82e934024a652305a01a6b48ca6fda713"
+      "sha256": "63c30d72f0e0cf6ce95ecbdb4cfdbe7b0768fd5d775ef107f1f61e6253943bfa"
     },
     "qa-engineer": {
       "version": "0.1.0",
