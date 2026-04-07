@@ -28,7 +28,7 @@
       "description": "",
       "author": "",
       "download_url": "https://github.com/MONTBRAIN/sample-registry/releases/download/agents/qa-engineer-0.1.0.agnt",
-      "sha256": "caeb058f3a7b71717727a16e8751ce2f0e57ee5d9750d60f70ceeb6c154b8a2d"
+      "sha256": "c3df000c2ee2df1268547d2037f6493ec5432eef4408d173c71fa8a59a96fb22"
     },
     "software-engineer": {
       "version": "0.1.0",
